@@ -134,13 +134,16 @@ These columns are currently required by the app loader:
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/salesdashboard.git
-cd salesdashboard
+git clone https://github.com/Chokkarapuwar-Sujal/sales-analytics-dashboard.git
+cd sales-dashboard
 python -m venv .venv
+
 # Windows
 .venv\Scripts\activate
+
 # macOS/Linux
 source .venv/bin/activate
+
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -163,5 +166,6 @@ streamlit run app.py
 - Customer segmentation for campaigns
 - Regional performance monitoring
 - Executive BI reporting
+
 
 
