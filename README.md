@@ -7,7 +7,7 @@
 ![ML](https://img.shields.io/badge/ML-Scikit--learn-orange)
 ![Boosting](https://img.shields.io/badge/Boosting-XGBoost-green)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-dashboard-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-analytics-dashboard-app.streamlit.app/)
 
 A production-style Streamlit dashboard for sales analytics, business intelligence, ML-powered forecasting, and automated insights. The app ships with an Indian e-commerce sample dataset and also supports compatible custom CSV files.
 
@@ -166,6 +166,7 @@ streamlit run app.py
 - Customer segmentation for campaigns
 - Regional performance monitoring
 - Executive BI reporting
+
 
 
 
